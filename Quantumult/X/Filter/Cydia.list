@@ -31,7 +31,7 @@ host, repo.packix.com, Cydia
 host, worksbybbs.github.io, Cydia
 host, apt.htv123.com, Cydia
 host, apt.modmyi.com, Cydia
-host, getzbra.com/beta, Cydia
+host, getzbra.com, Cydia
 host, repo.twickd.com, Cydia
 host, getzbra.com/repo, Cydia
 host, repo.conorthedev.me, Cydia
@@ -45,13 +45,14 @@ host, cydia.ichitaso.com, Cydia
 host, rpetri.ch/repo, Cydia
 host, repo.daus.ch, Cydia
 host, samgisaninja.github.io, Cydia
-host, ryleyangus.com/repo, Cydia
+host, ryleyangus.com, Cydia
 host, repo.dynastic.co, Cydia
-host, apptapp.me/repo, Cydia
+host, apptapp.me, Cydia
 host, repo.tylerd3v.xyz, Cydia
 host, repo.openpack.io, Cydia
 host, dev4i.yourepo.com, Cydia
 host, cydia.iphonecake.com, Cydia
 host, pixelex.yourepo.com, Cydia
 host, alexpng.github.io, Cydia
-host, ib-soft.net/cydia/, Cydia
+host, ib-soft.net, Cydia
+host, tigisoftware.com, Cydia
