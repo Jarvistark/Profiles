@@ -3,8 +3,8 @@ user-agent, Cydia*, Cydia
 user-agent, Zebra*, Cydia
 user-agent, com.saurik.Cydia*, Cydia
 user-agent, xyz.willy.Zebra*, Cydia
-host-keyword, repo, Cydia
-host, cydia.zodttd.com/repo/cydia, Cydia
+//host-keyword, repo, Cydia
+host, cydia.zodttd.com, Cydia
 host, repo.litten.sh, Cydia
 host, creaturesurvive.github.io, Cydia
 host, apt.golddavid.com, Cydia
@@ -54,3 +54,4 @@ host, dev4i.yourepo.com, Cydia
 host, cydia.iphonecake.com, Cydia
 host, pixelex.yourepo.com, Cydia
 host, alexpng.github.io, Cydia
+host, ib-soft.net/cydia/, Cydia
